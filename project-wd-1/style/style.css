@@ -1,0 +1,259 @@
+                    body {
+                        color: #7c7575;
+                        background-image: url(../img/background.gif);
+                        background-repeat: repeat
+                    }
+                    
+                    .navbar-button {
+                        color: #aaa;
+                        font-weight: 700;
+                        font-size: 40px;
+                        display: inline-block;
+                        padding: 15px;
+                        cursor: pointer;
+                        border-radius: 5px;
+                        font-family: 'Josefin Sans', sans-serif;
+                        text-decoration: none;
+                        /* text-transform: uppercase; */
+                        transition: color .5s, background-color .5s
+                    }
+                    
+                    .video {
+                        align-items: center;
+                    }
+                    
+                    .navbar-button:hover {
+                        color: #fff;
+                        background-color: #3a3333;
+                    }
+                    
+                    .navbar-search {
+                        display: inline-block;
+                        float: right;
+                    }
+                    
+                    .navbar-search-input {
+                        height: 40px;
+                        width: 200px;
+                        margin-top: -20px;
+                        vertical-align: middle;
+                        border-radius: 10px;
+                        padding: 10px;
+                        font-family: 'Josefin Sans', sans-serif;
+                        font-size: 20px;
+                        color: #131313;
+                        /* text shadow */
+                        background: #e7e5e4;
+                        letter-spacing: .15em;
+                        text-shadow: 1px -1px 0 #767676, -1px 2px 1px #737272, -2px 4px 1px #767474, -3px 6px 1px #787777, -4px 8px 1px #7b7a7a, -5px 10px 1px #7f7d7d, -6px 12px 1px #828181, -7px 14px 1px #868585, -8px 16px 1px #8b8a89, -9px 18px 1px #8f8e8d, -10px 20px 1px #949392, -11px 22px 1px #999897, -12px 24px 1px #9e9c9c, -13px 26px 1px #a3a1a1, -14px 28px 1px #a8a6a6, -15px 30px 1px #adabab, -16px 32px 1px #b2b1b0, -17px 34px 1px #b7b6b5, -18px 36px 1px #bcbbba, -19px 38px 1px #c1bfbf, -20px 40px 1px #c6c4c4, -21px 42px 1px #cbc9c8, -22px 44px 1px #cfcdcd, -23px 46px 1px #d4d2d1, -24px 48px 1px #d8d6d5, -25px 50px 1px #dbdad9, -26px 52px 1px #dfdddc, -27px 54px 1px #e2e0df, -28px 56px 1px #e4e3e2;
+                    }
+                    
+                    .as {
+                        float: left;
+                        text-align: justify;
+                        font-size: 30px;
+                        font-family: monospace;
+                        color: blanchedalmond;
+                        margin-left: 2%;
+                        margin-top: -2%;
+                    }
+                    
+                    .Caption {
+                        font-size: 70px;
+                        font-family: Perpetua;
+                        text-align: center;
+                        margin-top: 15%;
+                        color: honeydew;
+                    }
+                    
+                    .Caption1 {
+                        text-align: center;
+                        font-family: Perpetua;
+                        font-size: 50px;
+                        color: rgb(235, 224, 224);
+                        margin-top: -3%;
+                    }
+                    
+                    .gambar {
+                        margin-left: 37%;
+                        margin-bottom: 20%;
+                        width: 25%;
+                        border: 4x solid #575d63;
+                        padding: 10px;
+                        filter: blur(6px);
+                        transition: filter 1s
+                    }
+                    
+                    .gambar:hover {
+                        filter: blur(0);
+                    }
+                    
+                    .image-project {
+                        width: 40%;
+                        padding: 5%;
+                        margin-left: 5%;
+                        margin-top: -3%;
+                    }
+                    
+                    .au {
+                        float: left;
+                        text-align: justify;
+                        font-size: 30px;
+                        font-family: monospace;
+                        color: blanchedalmond;
+                        margin-left: 2%;
+                        margin-top: -2%;
+                    }
+                    
+                    .galeri {
+                        width: 40%;
+                        padding: 5%;
+                        display: block;
+                    }
+                    
+                    .video.about {
+                        width: 40%;
+                        margin-left: 35%;
+                    }
+                    
+                    .gambar-about {
+                        width: 40%;
+                        padding: 10px;
+                        margin-left: 30%;
+                    }
+                    
+                    .contact {
+                        margin-top: 20%;
+                        font-size: 24px;
+                        text-align: left;
+                        color: honeydew;
+                        font-family: Perpetua;
+                    }
+                    
+                    .tulisan {
+                        text-align: center;
+                        font-size: x-large;
+                        color: honeydew;
+                        font-family: Perpetua;
+                    }
+                    
+                    .mail {
+                        font-size: 24px;
+                        text-align: left;
+                        color: honeydew;
+                        font-family: Perpetua;
+                    }
+                    
+                    .instagram {
+                        font-size: 24px;
+                        text-align: left;
+                        color: honeydew;
+                        font-family: Perpetua;
+                    }
+                    
+                    .text {
+                        text-align: center;
+                        font-family: Perpetua;
+                        font-size: 48px;
+                        margin-top: -20%;
+                        color: honeydew;
+                    }
+                    
+                    .exp {
+                        text-align: center;
+                        color: honeydew;
+                        font-size: 40px;
+                        font-family: Perpetua;
+                    }
+                    
+                    .exp1 {
+                        text-align: center;
+                        color: honeydew;
+                        font-size: 40px;
+                    }
+                    
+                    .exp2 {
+                        text-align: center;
+                        color: honeydew;
+                        font-size: 40px;
+                        font-family: Perpetua;
+                    }
+                    
+                    .profile {
+                        width: 200px;
+                        /*width of your image*/
+                        height: 600px;
+                        /*height of your image*/
+                        background-image: url(img/pp.jpg);
+                        margin: 2px;
+                        /* If you want no margin */
+                        padding: 5px;
+                        /*if your want to padding */
+                    }
+                    
+                    .description {
+                        font-size: medium;
+                        font-family: 'Josefin Sans', sans-serif;
+                        color: ivory;
+                    }
+                    
+                    #formKomentar {
+                        margin-left: 25%;
+                        margin-top: 5%;
+                        border: 5px solid #868585;
+                        width: 55%;
+                        padding: 10px;
+                    }
+                    
+                    input,
+                    textarea {
+                        padding: 15px;
+                        border: 10px solid #e6e6e6;
+                        border-radius: 5px;
+                        margin-bottom: 25px;
+                    }
+                    
+                    .button {
+                        text-align: center;
+                    }
+                    
+                    .komen {
+                        text-align: center;
+                        margin-top: 5%;
+                        font-size: 72px;
+                        font-family: Perpetua;
+                        color: honeydew;
+                    }
+                    
+                    .button-button {
+                        color: #aaa;
+                        font-weight: 700;
+                        font-size: 40px;
+                        display: inline-block;
+                        padding: 15px;
+                        cursor: pointer;
+                        border-radius: 5px;
+                        font-family: 'Josefin Sans', sans-serif;
+                        text-decoration: none;
+                        /* text-transform: uppercase; */
+                        transition: color .5s, background-color .5s
+                    }
+                    
+                    .button-button:hover {
+                        color: #fff;
+                        background-color: #3a3333;
+                    }
+                    
+                    footer {
+                        font-family: Perpetua;
+                        color: white;
+                        clear: both;
+                        text-align: center;
+                    }
+                    
+                    .bottom {
+                        font-size: 20px;
+                        color: honeydew;
+                        font-family: Perpetua;
+                        text-align: center;
+                    }
